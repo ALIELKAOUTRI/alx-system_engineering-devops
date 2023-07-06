@@ -1,1 +1,1 @@
-pwd scripts
+commands scripts 
